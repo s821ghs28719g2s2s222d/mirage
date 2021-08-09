@@ -4,8 +4,6 @@
     "update_timestamp": 1628485553,
     "url_format": "https://raw.githubusercontent.com/s821ghs28719g2s2s222d/mirage/main/maps/%map%.json"
 "locations": {
-		"de_mirage": [
-			// array of locations
-		]
+		"de_mirage":
 	}
 }
